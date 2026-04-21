@@ -48,7 +48,7 @@ languages:
       profileMode:
         enabled: true
         title: "Redwan Benmansour" # optional default will be site title
-        subtitle: "Third-year student in EEE, I'm looking for an engineering school in the fields of electrical energy or IoT."
+        subtitle: "Student in the first year of the work-study engineering program at Grenoble INP – Ense3"
         imageUrl: "1739734917588.jpg" # optional
         imageTitle: "Redwan Benmansour" # optional
         imageWidth: 120 # custom size
@@ -91,7 +91,7 @@ languages:
       profileMode:
         enabled: true
         title: "Redwan Benmansour" # optional default will be site title
-        subtitle: "Étudiant en troisème année de BUT GEII, je suis à la recherche d'une école d'ingénieur dans les domaines de l'énergie électrique ou de l'IoT. "
+        subtitle: "Étudiant en 1ère année à INP Grenoble - Ense3 en Alternance"
         imageUrl: "1739734917588.jpg" # optional
         imageTitle: "Redwan Benmansour" # optional
         imageWidth: 120 # custom size
